@@ -1,0 +1,9 @@
+# Logs
+.DS_Store
+**/.DS_Store
+
+# Dependency directories
+node_modules
+
+# Secret keys
+.env
