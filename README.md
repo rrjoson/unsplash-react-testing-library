@@ -27,3 +27,12 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Todo
+- [ ] Update dev dependencies
+- [ ] Split to multiple components
+- [ ] Remove lodaash
+- [ ] Use react context
+- [ ] Improve structure of tests
+- [ ] Use Nock for mocking network calls
+- [ ] Run npm audit
