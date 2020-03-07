@@ -1,5 +1,7 @@
 # Unsplash React Testing Library
 
+![Node.js CI](https://github.com/rrjoson/unsplash-react-testing-library/workflows/Node.js%20CI/badge.svg)
+
 This is a side project for learning how to use react testing library
 
 ## Installation
