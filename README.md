@@ -25,6 +25,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Folder Structure
+    .
+    ├── public                  
+    ├── src                     
+    │   └── components          # Components folder
+    ├── .gitignore
+    └── README.md
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
