@@ -13,7 +13,7 @@
     "react-dom": "16.12.0",
     "react-scripts": "3.0.1",
     "rebass": "4.0.7",
-    "unsplash-js": "6.0.0"
+    "unsplash-js": "7.0.20"
   },
   "scripts": {
     "start": "react-scripts start",
